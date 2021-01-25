@@ -236,10 +236,9 @@ def main():
             continue
 
         else:
-            print("Thank you for playing!")
+            print("Thank you for playing! Good game!")
             break
 
 
 if __name__ == "__main__":
     main()
-
