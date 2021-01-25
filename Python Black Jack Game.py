@@ -236,7 +236,7 @@ def main():
             continue
 
         else:
-            print("Thank you for playing! Good game!")
+            print("Thank you for playing! Good game! Haha!")
             break
 
 
